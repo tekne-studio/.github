@@ -1,36 +1,30 @@
 # TEKNE STUDIO
 
-> Digital craftsmen merging creative coding, generative art, and immersive technologies to create extraordinary experiences ✨
-
-## About Us
-We are digital artisans at the intersection of art and technology, dedicated to crafting transformative digital experiences. Through creative coding and technological innovation, we bring visionary ideas to life.
-
-## What We Do
-
-### 🎨 Creative Coding & Generative Art
-Transforming code into living art
-
-### 🌌 Immersive Experiences
-Crafting installations that challenge the senses
-
-### 🎮 Virtual Worlds
-Building digital realities that transport and enchant
-
-### 💻 Rich Interfaces & Data Visualization
-Creating interfaces that dazzle, data that tells stories
-
-## Our Stack
-- Creative Coding: p5.js, paper.js, Three.js, WebGL
-- Frontend: Svelte, React, Next.js, Framer Motion
-- 3D & XR: Unity, WebXR, Three.js
-- Data Viz: D3.js, WebGL
-- Creative Tools: Processing, TouchDesigner
-- AI/ML Integration
-
-## Get in Touch
-Have an extraordinary project in mind? Let's create something amazing together.
-
-[Website](https://tekne.studio) • [Contact](mailto:contact@tekne.studio)
+`τέχνη` — the ancient Greek root of both *art* and *technique*.
 
 ---
-`Technology is our raw material, innovation our signature.`
+
+Creative technology studio based in Rio de Janeiro.
+
+We work at the intersection of code, art, and space — building immersive installations, generative systems, and interfaces that move.
+
+### Practice
+
+**Experience** — Immersive installations, interactive environments, spatial narratives
+
+**Interface** — Design systems, data visualization, rich frontends
+
+**Generative** — Creative coding, algorithmic art, real-time systems
+
+### Tools
+
+Creative coding · TouchDesigner · p5.js · Three.js · WebGL · Svelte · React · Processing · Unity · WebXR · D3.js
+
+---
+
+[tekne.studio](https://tekne.studio) · [contact@tekne.studio](mailto:contact@tekne.studio)
+
+```
+Between craft and code.
+Between space and screen.
+The work moves.```
