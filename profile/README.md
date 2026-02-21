@@ -22,8 +22,7 @@ Creative coding · TouchDesigner · p5.js · Three.js · WebGL · Svelte · Reac
 
 ---
 
-[tekne.studio](https://tekne.studio) · [contact@tekne.studio](mailto:contact@tekne.studio)
-
+[tekne.studio](https://tekne.studio)
 ```
 Between craft and code.
 Between space and screen.
